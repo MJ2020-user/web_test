@@ -1,0 +1,20 @@
+/* mystyle.css */
+
+body{ 
+    background-color: lightblue;}
+h1{
+    color: whitesmoke;
+    text-align:center;}
+h2{
+    color: midnightblue;
+    text-align: left;}
+hr{
+    color: gray;}
+a{
+    color: red;
+    font-size: 18px;}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
